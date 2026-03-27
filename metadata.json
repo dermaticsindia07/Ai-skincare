@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Copy of final last 29 august of 1 of Copy of New of Copy of AI Skincare Advisor",
+  "description": "Get a personalized skincare routine based on your past products, an AI analysis of your skin, and your goals. Powered by Google Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
